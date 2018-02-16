@@ -1,0 +1,3 @@
+Änderungen in dieser Datei sollen nicht mher vom GIT betrachtet werden.
+
+asasas

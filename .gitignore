@@ -2,8 +2,8 @@
 
 
 git-log.git
-*.txt
-!tempfile2.txt
+temp1.txt
+temp2.txt
 .DS_Store
 *.zip
 *.gz
