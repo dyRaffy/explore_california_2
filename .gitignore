@@ -1,0 +1,14 @@
+# Kommentare
+
+.idea/*
+git-log.git
+*.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tou_*.mp4
+
