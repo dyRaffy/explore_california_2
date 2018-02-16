@@ -3,6 +3,7 @@
 
 git-log.git
 *.txt
+!tempfile2.txt
 .DS_Store
 *.zip
 *.gz
