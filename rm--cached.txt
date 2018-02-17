@@ -1,1 +1,0 @@
-Der Inhalt darf sich nicht mehr ändern nach dem git rm --cached

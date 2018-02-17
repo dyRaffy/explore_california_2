@@ -12,4 +12,6 @@ log/*.log[0-9]
 assets/photoshop/
 assets/videos/
 !assets/videos/tou_*.mp4
+# Damit eine Datei ignoeriert wird muss diese mit rm --cached entfernt werden und in der .gitignore hizugefügt werden
+rm--cached.txt
 
