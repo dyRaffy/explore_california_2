@@ -1,0 +1,9 @@
+Grand-Grand-Parent
+
+Grandparent
+
+Parent
+
+Child
+
+Änderungen um git diff zu verstehen
